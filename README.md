@@ -1,4 +1,4 @@
-# 4Game-iOS-App
+# 4Game iOS Login
 
 ![Preview](https://github.com/antonkartashov/4Game-iOS-Login/blob/master/4Game-iOS-App.png)
 
