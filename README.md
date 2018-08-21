@@ -1,7 +1,3 @@
-# 4Game iOS Login
-
-![Preview](https://github.com/antonkartashov/4Game-iOS-Login/blob/master/4Game-iOS-App.png)
-
 ```
 - (BOOL)textFieldShouldReturn:(UITextField *)textField {
     if (textField == self.passF) {
@@ -15,3 +11,6 @@
     return YES;
 }
 ```
+
+
+![Preview](https://github.com/antonkartashov/4Game-iOS-Login/blob/master/4Game-iOS-App.png)
